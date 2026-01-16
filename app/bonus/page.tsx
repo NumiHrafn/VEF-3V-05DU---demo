@@ -6,6 +6,7 @@ export default function Page2() {
     <div>
         koddu í bónus
         <Mynd mynd={{src:"/alien.jpg", text:"alien"}}></Mynd>
+        <Mynd mynd={{src:"/bonus.png", text:"bonus"}}></Mynd>
     </div>
   );
 }
